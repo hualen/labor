@@ -1,0 +1,5 @@
+classes=1
+train=/home/iarc/bagging/darknet/runtraintiny/carton/cfg/train.txt
+valid=/home/iarc/bagging/darknet/runtraintiny/carton/cfg/val.txt
+names=/home/hualen/Desktop/bagging/cfg/Carton.names
+backup=/home/iarc/bagging/darknet/runtraintiny/carton/cfg/weights

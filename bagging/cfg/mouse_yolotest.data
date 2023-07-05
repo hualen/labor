@@ -1,0 +1,5 @@
+classes=1
+train=/home/iarc/sawadica/mouse_yolotest_0302/mouse_yolotest/cfg/train.txt
+valid=/home/iarc/sawadica/mouse_yolotest_0302/mouse_yolotest/cfg/val.txt
+names=/home/hualen/Desktop/bagging/cfg/mouse_yolotest.names
+backup=/home/iarc/sawadica/mouse_yolotest_0302/mouse_yolotest/cfg/weights
